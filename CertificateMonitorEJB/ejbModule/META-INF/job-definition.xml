@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<job-definitions>
+	<job-definition name="CertificateMonitoring">
+		<job-definition-parameter name="KeyStoreViews" data-type="String" direction="IN"></job-definition-parameter>
+		<job-definition-parameter name="DaysToExpire" data-type="String" direction="IN"></job-definition-parameter>
+		<job-definition-parameter name="EmailID" data-type="String" direction="IN"></job-definition-parameter>
+	</job-definition>
+</job-definitions>
