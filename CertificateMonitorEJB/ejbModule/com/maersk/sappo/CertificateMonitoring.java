@@ -71,6 +71,7 @@ public class CertificateMonitoring extends MDBJobImplementation {
 			//New Update
 			//Hello World
 			//SAP New Changes
+			//Contributor
 			//InitialContext ctx = new InitialContext();
 			//ApplicationPropertiesAccess prop = (ApplicationPropertiesAccess)ctx.lookup("ApplicationConfiguration");
 			//Properties appProp = prop.getApplicationProperties();
